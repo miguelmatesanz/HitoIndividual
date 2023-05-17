@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="prueba.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div>
+            <h1>Provincias</h1>
+        </div>
+        <nav>
+            <button class="boton">Menu</button>
+            <button class="boton">imagenes</button>
+            <button class="boton2">contactos</button>
+        </nav>
+        <div>
+            <h2>Miguel Matesanz Horne</h2>
+        </div>
+    </header>
+    <section>
+        <h3>Provincias</h3>
+        <div><button type="button" class="btn" id="boton" onclick="traerDatos()">Leer JSON</button></div>
+        <br>
+        <br>
+        <table class="tabla">
+            <thead>
+                <tr>
+                    <th>CODPROV</th>
+                    <th>NOMBRE_PROVINCIA</th>
+                    <th>CODAUTON</th>
+                    <th>COMUNIDAD_AUTONOMA</th>
+                    <th>CAPITAL_PROVINCIA</th>
+                </tr>
+            </thead>
+            <tbody id="resp"></tbody>
+        </table>
+    </section>
+    <footer>
+        <div>
+            <p>La fecha y hora actual es: <span id="fechaHora"></span></p>
+            <script>
+                function actualizarFechaHora() {
+                    var fechaHora = new Date();
+                    document.getElementById("fechaHora").innerHTML = fechaHora.toLocaleString();
+                }
+                actualizarFechaHora();
+                setInterval(actualizarFechaHora, 1000);
+            </script>
+        </div>
+        <p>&copy;2023 Miguel Matesanz Horne</p>
+        <img src="descarga.png">
+    </footer> 
+    <script src="pruebas.js"></script>
+</body>
+</html>
+

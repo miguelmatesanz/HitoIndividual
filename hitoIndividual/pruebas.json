@@ -1,0 +1,272 @@
+{
+    "provincias":
+
+[
+    {
+        "P1": "01",
+        "P2": "Araba\/\u00c1lava",
+        "P3": "16",
+        "P4": "Pa\u00eds Vasco\/Euskadi",
+        "P5": "Vitoria-Gasteiz"
+    },
+    {
+        "P1": "02",
+        "P2": "Albacete",
+        "P3": "08",
+        "P4": "Castilla-La Mancha",
+        "P5": "Albacete"
+    },
+    {
+        "P1": "03",
+        "P2": "Alacant\/Alicante",
+        "P3": "10",
+        "P4": "Comunitat Valenciana",
+        "P5": "Alicante\/Alacant"
+    },
+    {
+        "P1": "04",
+        "P2": "Almer\u00eda",
+        "P3": "01",
+        "P4": "Andaluc\u00eda",
+        "P5": "Almer\u00eda"
+    },
+    {
+        "P1": "05",
+        "P2": "\u00c1vila",
+        "P3": "07",
+        "P4": "Castilla y Le\u00f3n",
+        "P5": "\u00c1vila"
+    },
+    {
+        "P1": "06",
+        "P2": "Badajoz",
+        "P3": "11",
+        "P4": "Extremadura",
+        "P5": "Badajoz"
+    },
+    {
+        "P1": "07",
+        "P2": "Illes Balears",
+        "P3": "04",
+        "P4": "Illes Balears",
+        "P5": "Palma de Mallorca"
+    },
+    {
+        "P1": "08",
+        "P2": "Barcelona",
+        "P3": "09",
+        "P4": "Catalu\u00f1a\/Catalunya",
+        "P5": "Barcelona"
+    },
+    {
+        "P1": "09",
+        "P2": "Burgos",
+        "P3": "07",
+        "P4": "Castilla y Le\u00f3n",
+        "P5": "Burgos"
+    },
+    {
+        "P1": "10",
+        "P2": "C\u00e1ceres",
+        "P3": "11",
+        "P4": "Extremadura",
+        "P5": "C\u00e1ceres"
+    },
+    {
+        "P1": "11",
+        "P2": "C\u00e1diz",
+        "P3": "01",
+        "P4": "Andaluc\u00eda",
+        "P5": "C\u00e1diz"
+    },
+    {
+        "P1": "12",
+        "P2": "Castell\u00f3\/Castell\u00f3n",
+        "P3": "10",
+        "P4": "Comunitat Valenciana",
+        "P5": "Castell\u00f3n de la Plana\/Castell\u00f3 de la Plana"
+    },
+    {
+        "P1": "13",
+        "P2": "Ciudad Real",
+        "P3": "08",
+        "P4": "Castilla-La Mancha",
+        "P5": "Ciudad Real"
+    },
+    {
+        "P1": "14",
+        "P2": "C\u00f3rdoba",
+        "P3": "01",
+        "P4": "Andaluc\u00eda",
+        "P5": "C\u00f3rdoba"
+    },
+    {
+        "P1": "15",
+        "P2": "A Coru\u00f1a",
+        "P3": "12",
+        "P4": "Galicia",
+        "P5": "A Coru\u00f1a"
+    },
+    {
+        "P1": "16",
+        "P2": "Cuenca",
+        "P3": "08",
+        "P4": "Castilla-La Mancha",
+        "P5": "Cuenca"
+    },
+    {
+        "P1": "17",
+        "P2": "Girona",
+        "P3": "09",
+        "P4": "Catalu\u00f1a\/Catalunya",
+        "P5": "Girona"
+    },
+    {
+        "P1": "18",
+        "P2": "Granada",
+        "P3": "01",
+        "P4": "Andaluc\u00eda",
+        "P5": "Granada"
+    },
+    {
+        "P1": "19",
+        "P2": "Guadalajara",
+        "P3": "08",
+        "P4": "Castilla-La Mancha",
+        "P5": "Guadalajara"
+    },
+    {
+        "P1": "20",
+        "P2": "Gipuzkoa",
+        "P3": "16",
+        "P4": "Pa\u00eds Vasco\/Euskadi",
+        "P5": "Donostia\/San Sebasti\u00e1n"
+    },
+    {
+        "P1": "21",
+        "P2": "Huelva",
+        "P3": "01",
+        "P4": "Andaluc\u00eda",
+        "P5": "Huelva"
+    },
+    {
+        "P1": "22",
+        "P2": "Huesca",
+        "P3": "02",
+        "P4": "Arag\u00f3n",
+        "P5": "Huesca"
+    },
+    {
+        "P1": "23",
+        "P2": "Ja\u00e9n",
+        "P3": "01",
+        "P4": "Andaluc\u00eda",
+        "P5": "Ja\u00e9n"
+    },
+    {
+        "P1": "24",
+        "P2": "Le\u00f3n",
+        "P3": "07",
+        "P4": "Castilla y Le\u00f3n",
+        "P5": "Le\u00f3n"
+    },
+    {
+        "P1": "25",
+        "P2": "Lleida",
+        "P3": "09",
+        "P4": "Catalu\u00f1a\/Catalunya",
+        "P5": "Lleida"
+    },
+    {
+        "P1": "26",
+        "P2": "La Rioja",
+        "P3": "17",
+        "P4": "La Rioja",
+        "P5": "Logro\u00f1o"
+    },
+    {
+        "P1": "27",
+        "P2": "Lugo",
+        "P3": "12",
+        "P4": "Galicia",
+        "P5": "Lugo"
+    },
+    {
+        "P1": "28",
+        "P2": "Madrid",
+        "P3": "13",
+        "P4": "Comunidad de Madrid",
+        "P5": "Madrid"
+    },
+    {
+        "P1": "29",
+        "P2": "M\u00e1laga",
+        "P3": "01",
+        "P4": "Andaluc\u00eda",
+        "P5": "M\u00e1laga"
+    },
+    {
+        "P1": "30",
+        "P2": "Murcia",
+        "P3": "14",
+        "P4": "Regi\u00f3n de Murcia",
+        "P5": "Murcia"
+    },
+    {
+        "P1": "31",
+        "P2": "Navarra",
+        "P3": "15",
+        "P4": "Comunidad Foral de Navarra",
+        "P5": "Pamplona\/Iru\u00f1a"
+    },
+    {
+        "P1": "32",
+        "P2": "Ourense",
+        "P3": "12",
+        "P4": "Galicia",
+        "P5": "Ourense"
+    },
+    {
+        "P1": "33",
+        "P2": "Asturias",
+        "P3": "03",
+        "P4": "Principado de Asturias",
+        "P5": "Oviedo"
+    },
+    {
+        "P1": "34",
+        "P2": "Palencia",
+        "P3": "07",
+        "P4": "Castilla y Le\u00f3n",
+        "P5": "Palencia"
+    },
+    {
+        "P1": "35",
+        "P2": "Las Palmas",
+        "P3": "05",
+        "P4": "Canarias",
+        "P5": "Las Palmas de Gran Canaria"
+    },
+    {
+        "P1": "36",
+        "P2": "Pontevedra",
+        "P3": "12",
+        "P4": "Galicia",
+        "P5": "Pontevedra"
+    },
+    {
+        "P1": "37",
+        "P2": "Salamanca",
+        "P3": "07",
+        "P4": "Castilla y Le\u00f3n",
+        "P5": "Salamanca"
+    },
+    {
+        "P1": "38",
+        "P2": "Santa Cruz de Tenerife",
+        "P3": "05",
+        "P4": "Canarias",
+        "P5": "Santa Cruz de Tenerife"
+    }
+]
+}

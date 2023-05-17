@@ -1,0 +1,99 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    width: 100vw;
+    background-color: rgb(65, 111, 151);
+    display: flex;
+    flex-direction: row;
+    height: 10vh;
+}
+header div{
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header nav{
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boton{
+    margin-right: 5%;
+    transition: all 0.5s;
+    background-color: rgb(133, 128, 123);
+
+}
+.boton2{
+    transition: all 0.5s;
+    background-color: rgb(133, 128, 123);
+}
+.boton:hover, .boton2:hover{
+    background-color: rgb(129, 102, 67);
+}
+section{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+section h3{
+    text-align: center;
+    align-items: center;
+    padding-top: 2%;
+}
+section div{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 2%;
+}
+.tabla{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.tabla thead{
+    width: 100%;
+    
+}
+.tabla tr{
+    justify-content: center;
+    display: flex;
+    padding-bottom: 20px;
+}
+.tabla thead tr th{
+    width: 5%;
+    font-size: 15px;
+    padding-right: 60px;
+    padding-left: 60px;
+    
+}
+
+#resp{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.tabla tr td{
+    width: 5%;
+    font-size: 15px;
+    padding-right: 60px;
+    padding-left: 60px; 
+}
+
+
+footer{
+    background-color: rgb(65, 111, 151);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+}
